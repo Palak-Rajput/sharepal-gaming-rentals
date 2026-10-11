@@ -1,4 +1,4 @@
-# 🎮 SharePal - Gaming Gadgets on Rent (Bangalore)
+# 🎮 SharePal - Gaming Gadgets on Rent
 
 > **End-to-End High-Fidelity Frontend & Full-Stack Recreation of [SharePal Bangalore Gaming Gadgets](https://sharepal.in/bangalore/gaming-gadgets-on-rent)**.
 
